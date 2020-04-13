@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['magic_5ftype_10646',['magic_type',['../enums_8h_ae3313bad7beb892742b71e325ca498f2.html#ae3313bad7beb892742b71e325ca498f2',1,'enums.h']]],
+  ['memfile_10647',['MEMFILE',['../structs_8h_a85e4b874ddcab09c600e30a79b0db644.html#a85e4b874ddcab09c600e30a79b0db644',1,'structs.h']]],
+  ['micros_10648',['MICROS',['../structs_8h_ae810c799de2c6d146041abedd08d4c35.html#ae810c799de2c6d146041abedd08d4c35',1,'structs.h']]],
+  ['misfiledata_10649',['MisFileData',['../structs_8h_a9ad8c20406fc401898e317ec406223f2.html#a9ad8c20406fc401898e317ec406223f2',1,'structs.h']]],
+  ['missile_5fgraphic_5fid_10650',['missile_graphic_id',['../enums_8h_a8dcb7ff69f6201a30ee3090e1ad9b5f7.html#a8dcb7ff69f6201a30ee3090e1ad9b5f7',1,'enums.h']]],
+  ['missile_5fid_10651',['missile_id',['../enums_8h_a015dacf910a57834c085a58da1fc0062.html#a015dacf910a57834c085a58da1fc0062',1,'enums.h']]],
+  ['missile_5fresistance_10652',['missile_resistance',['../enums_8h_a3712b361202a7b6f8e3f84294e90112f.html#a3712b361202a7b6f8e3f84294e90112f',1,'enums.h']]],
+  ['missiledata_10653',['MissileData',['../structs_8h_a70896dc8fdf735c723c00dfa3b5ee301.html#a70896dc8fdf735c723c00dfa3b5ee301',1,'structs.h']]],
+  ['missilestruct_10654',['MissileStruct',['../structs_8h_a1ab18906082f57a3e139a07d894c5443.html#a1ab18906082f57a3e139a07d894c5443',1,'structs.h']]],
+  ['mon_5fanim_10655',['MON_ANIM',['../enums_8h_a38882289a135ce1a9466a83213dbb647.html#a38882289a135ce1a9466a83213dbb647',1,'enums.h']]],
+  ['mon_5fmode_10656',['MON_MODE',['../enums_8h_ac0446200b6aa4d8b98b40ed176a3d533.html#ac0446200b6aa4d8b98b40ed176a3d533',1,'enums.h']]],
+  ['monster_5fflag_10657',['monster_flag',['../enums_8h_a5180ab4a23a2d5adb1d47bbff9080c65.html#a5180ab4a23a2d5adb1d47bbff9080c65',1,'enums.h']]],
+  ['monster_5fgoal_10658',['monster_goal',['../enums_8h_afccdf4998a8725f3bd38ca58d7b12f24.html#afccdf4998a8725f3bd38ca58d7b12f24',1,'enums.h']]],
+  ['monster_5fresistance_10659',['monster_resistance',['../enums_8h_a3a5224cc4c72180859e00e11b1f05f24.html#a3a5224cc4c72180859e00e11b1f05f24',1,'enums.h']]],
+  ['monsterdata_10660',['MonsterData',['../structs_8h_a29f9703e1a97b5dcff0085740757ed25.html#a29f9703e1a97b5dcff0085740757ed25',1,'structs.h']]],
+  ['monsterstruct_10661',['MonsterStruct',['../structs_8h_a79ff449dcc9bd8befe3aca3ad6c81baa.html#a79ff449dcc9bd8befe3aca3ad6c81baa',1,'structs.h']]],
+  ['multiquests_10662',['MultiQuests',['../structs_8h_a658d3a0284647b9c4fe4e809f194bfa3.html#a658d3a0284647b9c4fe4e809f194bfa3',1,'structs.h']]]
+];
